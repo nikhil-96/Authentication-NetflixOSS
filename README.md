@@ -1,4 +1,4 @@
-# Authenticatioon Uisng Netflix OSS
+# Authenticatioon Using Netflix OSS
 
 This Project will get you through the basics of Netflix OSS framework and also implement the same in basic user Authentication.
 
